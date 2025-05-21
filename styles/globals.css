@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/globals.css 또는 Tailwind 스타일 조합 */
+.input {
+    @apply w-full p-2 border rounded;
+  }
+  
