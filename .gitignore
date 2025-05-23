@@ -1,5 +1,14 @@
+# Dependencies
 node_modules/
+
+# Next.js 빌드 결과
 .next/
+
+# 기타 빌드 산출물
 dist/
+
+# 환경설정 파일
 .env
+
+# macOS 임시 파일
 .DS_Store
